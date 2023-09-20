@@ -35,6 +35,41 @@ h2{
     color: #4ea0ff;
 }
 
-h5{
+h4{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.photo{
+    height: 520px;
+}
+
+#captions>h5 {
     margin: 0;
 }
+
+.marker{
+    background-color: yellow;
+}
+
+ul{
+    padding-inline-start: 20px;
+}
+table{
+    border-spacing: 0;
+}
+thead{
+    color: white;
+    background-color: #4ea0ff;
+}
+th{
+    width: 350px;
+}
+#last-column{
+    width: auto;
+}
+.row-colored{
+    background-color: rgb(152, 234, 234);
+}
+    
+
