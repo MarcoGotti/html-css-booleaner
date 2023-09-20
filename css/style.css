@@ -17,6 +17,9 @@ body{
 }
 
 /* main */
+main{
+    margin: 0px 10px 0px 10px;
+}
 h1{
     margin: 0;
     font-weight: 600;
@@ -54,6 +57,7 @@ h4{
 
 ul{
     padding-inline-start: 20px;
+    margin: 30px 0px;
 }
 table{
     border-spacing: 0;
@@ -71,5 +75,18 @@ th{
 .row-colored{
     background-color: rgb(152, 234, 234);
 }
-    
+ 
+/* footer */
 
+footer{
+    margin: 30px 10px 0px 10px;
+}
+
+#interests{
+    color: grey;
+}
+
+footer>img{
+    display: block;
+    margin-bottom: 10px;
+}
