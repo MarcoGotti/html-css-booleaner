@@ -79,12 +79,15 @@ th{
     width: 50%;
 }
 
-/* another way could the following. And no properties to 
-column -first and -second.
+/* another way could the following. 
 
 #column-third{
     margin: auto;
-} */
+} 
+
+And no properties to 
+column -first and -second.*/
+
 
 .row-colored{
     background-color: rgb(152, 234, 234);
